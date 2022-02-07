@@ -65,9 +65,9 @@ FileBrowser的使用筆記
     ```json
     {
         "database":"./filebrowser.db",
-    	"address":"127.0.0.1",
-    	"port":8080,
-    	"root":"."
+        "address":"127.0.0.1",
+        "port":8080,
+        "root":"."
     }
     ```
     說明:
